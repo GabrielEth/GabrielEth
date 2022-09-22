@@ -6,6 +6,9 @@
 - 💞️ I’m looking to collaborate on any interesting projects
 - 📫 How to reach me send me an email at gabiota1998@gmail.com
 
+
+https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=plastic&logoWidth=20
+
 <!---
 GabrielEth/GabrielEth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
