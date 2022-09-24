@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GabrielEth
+- 👋 Hi, I’m Gabriel Garza
 - 👀 I’m interested in web 2.0, 3.0, distributed systems, AWS, and trying new foods. 
 - 🌱 I’m currently learning C++, AWS Solutions Architect (Associate).
 - 💪 Strengthening my knowledge in JS
