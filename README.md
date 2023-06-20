@@ -11,7 +11,7 @@
 ![JS Logo](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=plastic&logoWidth=20)
 ![React.js Logo](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white&style=plastic&logoWidth=20)
 ![C++ Logo](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=black&style=plastic&logoWidth=20)
-![firebase logo](https://img.shields.io/badge/-firebase?logo=firebase&logoColor=Yellow)
+![firebase logo](https://img.shields.io/badge/-firebase=2C294B?logo=firebase&logoColor=Yellow)
 <!---
 GabrielEth/GabrielEth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
